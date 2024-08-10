@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "1dd29a34a8993325",
+        "id": "01ad068d370b8a49",
         "type": "tabs",
         "children": [
           {
-            "id": "2c81724bc69c5021",
+            "id": "dbb57926f7d80f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/内存/虚拟内存.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "112101c748d3cb85",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "操作系统/内存/虚拟内存.md",
-                "staged": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "5c20fb80702b8ec4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/虚拟内存.excalidraw"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/虚拟内存.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/虚拟内存.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/虚拟内存.excalidraw"
+              }
             }
           },
           {
@@ -150,9 +177,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2c81724bc69c5021",
+  "active": "5c20fb80702b8ec4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-10 23.12.02.excalidraw.md",
+    "Excalidraw/虚拟内存.excalidraw",
+    "Excalidraw/未命名.md",
     "操作系统/内存/虚拟内存.md",
+    "README.md",
+    "Excalidraw/分段内存映射.excalidraw.md",
+    "操作系统/内存/Drawing 2024-08-10 23.06.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-10 22.44.32.excalidraw.md",
+    "Excalidraw",
     "前端/TypeScript/原始类型与对象类型.md",
     "操作系统/内存",
     "前端/TypeScript/装饰器 5.0之前.md",
@@ -171,8 +206,6 @@
     "前端/TypeScript",
     "前端",
     "Excalidraw/Drawing 2024-08-10 17.37.47.excalidraw.md",
-    "操作系统",
-    "Excalidraw",
-    "README.md"
+    "操作系统"
   ]
 }
