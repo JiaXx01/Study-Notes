@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "dc2a36e491ba156b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6f15ce5e85f80a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6fb4706c0856f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/TypeScript/原始类型与对象类型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c3f593bea43968e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db06df1bb34e673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8892c1c794735f0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "cc3cec9b6bb78176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b47b0e5b97162372",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a605c940f6946abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "91cc10a5d776dd6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b905d2a7b22b526a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/TypeScript/原始类型与对象类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65d2be1fcb61c5d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端/TypeScript/原始类型与对象类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b48d35c45b3b81ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fae2ae0d2464729d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端/TypeScript/原始类型与对象类型.md"
+              }
+            }
+          },
+          {
+            "id": "a3eb9e53413fe901",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "d6fb4706c0856f09",
+  "lastOpenFiles": [
+    "前端/TypeScript/装饰器 5.0之前.md",
+    "2024-08-10.md",
+    "前端/TypeScript/模板字符串类型.md",
+    "前端/TypeScript/协变与逆变.md",
+    "前端/TypeScript/工具类型.md",
+    "前端/TypeScript/条件类型与infer.md",
+    "前端/TypeScript/类型系统层级.md",
+    "前端/TypeScript/类型兼容性比较.md",
+    "前端/TypeScript/范型.md",
+    "前端/TypeScript/类型工具.md",
+    "前端/TypeScript/内置类型与类型断言.md",
+    "前端/TypeScript/函数与类.md",
+    "前端/TypeScript/原始类型与对象类型.md",
+    "前端/TypeScript/字面量类型与枚举.md",
+    "前端/TypeScript",
+    "前端",
+    "Excalidraw/Drawing 2024-08-10 17.37.47.excalidraw.md",
+    "操作系统",
+    "Excalidraw",
+    "README.md"
+  ]
+}
