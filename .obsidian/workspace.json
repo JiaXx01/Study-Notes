@@ -11,10 +11,11 @@
             "id": "dbb57926f7d80f0c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "操作系统/内存/虚拟内存.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统/内存/虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统/内存/虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统/内存/虚拟内存.md"
+              }
             }
           },
           {
@@ -162,7 +167,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dbb57926f7d80f0c",
+  "active": "a3eb9e53413fe901",
   "lastOpenFiles": [
     "操作系统/内存/虚拟内存.md",
     "Excalidraw/操作系统/虚拟内存.svg",
