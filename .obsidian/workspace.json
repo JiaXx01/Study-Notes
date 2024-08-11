@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9ddf664bbe0d9369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/内存/虚拟内存.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c20fb80702b8ec4",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,9 +180,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a3eb9e53413fe901",
+  "active": "9ddf664bbe0d9369",
   "lastOpenFiles": [
+    "Excalidraw/操作系统/分段内存.svg",
+    "Excalidraw/操作系统/分段内存.md",
     "操作系统/内存/虚拟内存.md",
+    "计算机网络",
+    "Rust",
     "Excalidraw/操作系统/虚拟内存.svg",
     "Excalidraw/操作系统/虚拟内存.md",
     "Excalidraw/操作系统/虚拟内存_副本.svg",
