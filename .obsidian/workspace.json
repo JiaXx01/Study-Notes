@@ -8,18 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "957a157fa3013df1",
+            "id": "352cdf9bedd8ea73",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rust/单核心并发.md"
+              }
+            }
+          },
+          {
+            "id": "b31ffc7124ed91e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/内存/虚拟内存.md",
+                "file": "Rust/多线程并发.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad18cfe7dcd77e9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rust/并行.md"
+              }
+            }
+          },
+          {
+            "id": "bde220795e13131f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Rust/并发.svg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/内存/虚拟内存.md",
+                "file": "Rust/多线程并发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/内存/虚拟内存.md",
+                "file": "Rust/多线程并发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/内存/虚拟内存.md"
+                "file": "Rust/多线程并发.md"
               }
             }
           },
@@ -155,10 +186,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "957a157fa3013df1",
+  "active": "b31ffc7124ed91e5",
   "lastOpenFiles": [
-    "Excalidraw/操作系统/内存交换.md",
+    "Excalidraw/Rust/并行.md",
+    "Excalidraw/Rust/并行.svg",
+    "Excalidraw/Rust/并发.md",
+    "Excalidraw/Rust/单核心并发.svg",
+    "Rust/多线程并发.md",
+    "Excalidraw/Rust/单核心并发.md",
+    "Excalidraw/Rust/并发.svg",
     "操作系统/内存/虚拟内存.md",
+    "Excalidraw/Rust",
+    "Excalidraw/操作系统/内存交换.md",
     "Excalidraw/操作系统/内存交换.svg",
     "Excalidraw/操作系统/内存碎片.md",
     "Excalidraw/操作系统/内存碎片.svg",
@@ -190,10 +229,6 @@
     "前端/TypeScript/条件类型与infer.md",
     "前端/TypeScript/类型系统层级.md",
     "前端/TypeScript/类型兼容性比较.md",
-    "前端/TypeScript/范型.md",
-    "前端/TypeScript/类型工具.md",
-    "前端/TypeScript/内置类型与类型断言.md",
-    "前端/TypeScript/函数与类.md",
     "前端/TypeScript",
     "前端",
     "操作系统"
