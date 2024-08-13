@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "01ad068d370b8a49",
+        "id": "2dcb0648132caaac",
         "type": "tabs",
         "children": [
           {
-            "id": "352cdf9bedd8ea73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rust/单核心并发.md"
-              }
-            }
-          },
-          {
-            "id": "b31ffc7124ed91e5",
+            "id": "72f2c1c6f0f0ff12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/多线程并发.md",
+                "file": "操作系统/内存/虚拟内存.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad18cfe7dcd77e9a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rust/并行.md"
-              }
-            }
-          },
-          {
-            "id": "bde220795e13131f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Rust/并发.svg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/多线程并发.md",
+                "file": "操作系统/内存/虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/多线程并发.md",
+                "file": "操作系统/内存/虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/多线程并发.md"
+                "file": "操作系统/内存/虚拟内存.md"
               }
             }
           },
@@ -186,35 +155,40 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b31ffc7124ed91e5",
+  "active": "a3eb9e53413fe901",
   "lastOpenFiles": [
+    "Excalidraw/操作系统/分页虚拟内存.md",
+    "操作系统/内存/虚拟内存.md",
+    "Excalidraw/操作系统/分段虚拟内存.md",
+    "Excalidraw/操作系统/分页虚拟内存.svg",
+    "Excalidraw/操作系统/分段虚拟内存.svg",
+    "Excalidraw/操作系统/分段内存交换.md",
+    "Excalidraw/操作系统/分页内存交换.md",
+    "Excalidraw/操作系统/分页内存交换.svg",
+    "Excalidraw/操作系统/分段内存交换.svg",
+    "Excalidraw/操作系统/内存分页.md",
+    "Excalidraw/操作系统/内存分页.svg",
+    "Excalidraw/Rust/并发.svg",
     "Excalidraw/Rust/并行.md",
+    "Excalidraw/Rust/单核心并发.md",
+    "README.md",
+    "Rust/多线程并发.md",
     "Excalidraw/Rust/并行.svg",
     "Excalidraw/Rust/并发.md",
     "Excalidraw/Rust/单核心并发.svg",
-    "Rust/多线程并发.md",
-    "Excalidraw/Rust/单核心并发.md",
-    "Excalidraw/Rust/并发.svg",
-    "操作系统/内存/虚拟内存.md",
     "Excalidraw/Rust",
-    "Excalidraw/操作系统/内存交换.md",
-    "Excalidraw/操作系统/内存交换.svg",
     "Excalidraw/操作系统/内存碎片.md",
     "Excalidraw/操作系统/内存碎片.svg",
     "Excalidraw/操作系统/分段内存.svg",
-    "Excalidraw/操作系统/虚拟内存.md",
-    "Excalidraw/操作系统/虚拟内存.svg",
     "Excalidraw/操作系统/Drawing 2024-08-11 12.41.57.excalidraw.md",
     "Excalidraw/操作系统/未命名.canvas",
     "Excalidraw/操作系统/分段内存.md",
     "计算机网络",
     "Rust",
-    "Excalidraw/操作系统/虚拟内存_副本.svg",
     "Excalidraw/操作系统",
     "Excalidraw/虚拟内存.excalidraw",
     "Excalidraw/Drawing 2024-08-10 23.12.02.excalidraw.md",
     "Excalidraw/未命名.md",
-    "README.md",
     "Excalidraw/分段内存映射.excalidraw.md",
     "操作系统/内存/Drawing 2024-08-10 23.06.09.excalidraw.md",
     "Excalidraw/Drawing 2024-08-10 22.44.32.excalidraw.md",
@@ -226,9 +200,6 @@
     "前端/TypeScript/模板字符串类型.md",
     "前端/TypeScript/协变与逆变.md",
     "前端/TypeScript/工具类型.md",
-    "前端/TypeScript/条件类型与infer.md",
-    "前端/TypeScript/类型系统层级.md",
-    "前端/TypeScript/类型兼容性比较.md",
     "前端/TypeScript",
     "前端",
     "操作系统"
